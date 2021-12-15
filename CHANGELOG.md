@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.0.6
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 1.0.5
 
 ### Patch Changes
