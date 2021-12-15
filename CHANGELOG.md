@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.0.5
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 1.0.4
 
 ### Patch Changes
