@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.0.8
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 1.0.7
 
 ### Patch Changes
