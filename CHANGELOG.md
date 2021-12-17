@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.0.9
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 1.0.8
 
 ### Patch Changes
