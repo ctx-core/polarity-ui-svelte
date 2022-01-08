@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity-ui-svelte",
-	"version": "1.0.14",
+	"version": "1.0.15",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -50,5 +50,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
