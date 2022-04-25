@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity-ui-svelte",
-	"version": "1.0.18",
+	"version": "1.0.19",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -36,12 +36,12 @@
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.170",
+		"@swc/core": "^1.2.171",
 		"rimraf": "^3.0.2",
 		"svelte": "^3.47.0",
 		"svelte-preprocess": "^4.10.6",
 		"svelte2tsx": "^0.5.9",
-		"tslib": "^2.3.1",
+		"tslib": "^2.4.0",
 		"typescript": "next"
 	},
 	"publishConfig": {
