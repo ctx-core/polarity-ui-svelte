@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.0.26
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 1.0.25
 
 ### Patch Changes
