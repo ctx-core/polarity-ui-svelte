@@ -1,2 +1,1 @@
-import 'svelte'
-export * as PolarityIcon from './PolarityIcon.svelte'
+export * from './PolarityIcon/index.js'
