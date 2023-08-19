@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.1.33
+
+### Patch Changes
+
+- tslib: ^2.6.1 -> ^2.6.2
+
 ## 1.1.32
 
 ### Patch Changes
