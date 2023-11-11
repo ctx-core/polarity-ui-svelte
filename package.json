@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity-ui-svelte",
-	"version": "1.1.36",
+	"version": "1.2.0",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,13 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./PolarityIcon"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {

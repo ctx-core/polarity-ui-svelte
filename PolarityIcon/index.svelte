@@ -1,5 +1,5 @@
 <script>
-export let polarity = 0
+	export let polarity = 0
 </script>
 
 <span class="PolarityIcon {$$props.class||''}">
@@ -13,13 +13,13 @@ export let polarity = 0
 </span>
 
 <style>
-.positive {
-	color: #33A532;
-}
-.neutral {
-	color: #999999;
-}
-.negative {
-	color: #CC0605;
-}
+	.positive {
+		color: #33A532;
+	}
+	.neutral {
+		color: #999999;
+	}
+	.negative {
+		color: #CC0605;
+	}
 </style>
