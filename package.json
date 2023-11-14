@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity-ui-svelte",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./PolarityIcon"
 	],
 	"types": "./index.d.ts",
