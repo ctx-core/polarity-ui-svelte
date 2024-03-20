@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.2.23
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 1.2.22
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/polarity-ui-svelte",
-	"version": "1.2.22",
+	"version": "1.2.23",
 	"description": "ctx-core polarity",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/polarity-ui-svelte.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-polarity-ui-svelte@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
