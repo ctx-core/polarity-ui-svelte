@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.2.24
+
+### Patch Changes
+
+- @sveltejs/adapter-auto: ^3.1.1 -> ^3.2.0
+
 ## 1.2.23
 
 ### Patch Changes
