@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.2.42
+
+### Patch Changes
+
+- @sveltejs/kit: ^2.5.17 -> ^2.5.18
+
 ## 1.2.41
 
 ### Patch Changes
