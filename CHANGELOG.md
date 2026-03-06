@@ -1,5 +1,11 @@
 # @ctx-core/polarity-ui-svelte
 
+## 1.2.46
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 1.2.45
 
 ### Patch Changes
